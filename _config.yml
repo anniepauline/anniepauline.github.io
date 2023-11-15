@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/photo.jpg
+picture: docs/assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1L9F0s7i3b7YYayj0Od7dKyoctHY4fCF2/view?usp=sharing
 
-url: https://anniepauline.github.io/anniepauline
+url: https://anniepauline.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -46,13 +46,13 @@ authors:
     name: Annie Pauline
     bio: A woman who travels the world eating noodles
     external-image: false
-    picture: assets/images/photo.jpg
+    picture: docs/assets/images/profile.jpg
     twitter: anniepauline23
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
     external-image: false
-    picture: assets/images/james.jpg
+    picture: docs/assets/images/james.jpg
     twitter: jamesfoster
 
 # do you want a larger site? change the option below
