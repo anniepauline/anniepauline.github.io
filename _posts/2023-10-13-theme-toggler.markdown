@@ -1,5 +1,5 @@
 ---
-title: " Theme toggler "
+title: "Theme toggler"
 layout: post
 date: 2023-10-13 22:10
 tag: jekyll
