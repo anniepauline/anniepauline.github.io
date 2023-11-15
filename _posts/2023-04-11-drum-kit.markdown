@@ -3,7 +3,7 @@ title: "Drumkit 🥁"
 layout: post
 date: 2023-04-11 22:10
 tag: jekyll
-image: docs/assets/images/drum-kit-logo.png
+image: ../docs/assets/images/drum-kit-logo.png
 headerImage: true
 projects: true
 hidden: true
