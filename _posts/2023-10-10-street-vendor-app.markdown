@@ -13,7 +13,7 @@ category: project
 author: johndoe
 externalLink: false
 ---
-![Screenshot](/assets/images/street-vendor.png)
+![Screenshot](docs/assets/images/street-vendor.png)
 
 A street vendor is someone who sells food, goods and merchandise on the street or in an open-air market rather than at a traditional store. 
 

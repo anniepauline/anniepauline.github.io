@@ -2,7 +2,7 @@
 title: "First Open Source Contribution"
 layout: post
 date: 2023-11-14 15:59
-image: /assets/images/markdown.jpg
+image: docs/assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown

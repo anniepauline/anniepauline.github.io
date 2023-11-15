@@ -4,7 +4,7 @@ layout: post
 date: 2023-10-12 22:10
 tag: jekyll
 headerImage: true
-images: /assets/images/amazon-logo.png
+images: docs/assets/images/amazon-logo.png
 projects: true
 hidden: true
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."

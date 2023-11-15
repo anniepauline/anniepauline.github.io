@@ -12,7 +12,7 @@ author: johndoe
 externalLink: false
 ---
 
-![Screenshot](/assets/images/simons.png)
+![Screenshot](docs/assets/images/simons.png)
 
 Wanna play the game ? - [Simon's Game](https://anniepauline.github.io/Simons-Game/). This is a simple and fun game template for Jekyll for those who likes to eat noodles.
 

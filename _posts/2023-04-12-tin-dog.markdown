@@ -10,7 +10,7 @@ category: project
 author: johndoe
 externalLink: false
 ---
-![Screenshot](/assets/images/tindog.png)
+![Screenshot](docs/assets/images/tindog.png)
 Tin-Dog is a tinder site but for Dogs.
 Find the true love of your dog's life! 🦴🦴
 
