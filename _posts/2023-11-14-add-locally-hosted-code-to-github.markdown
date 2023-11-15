@@ -2,7 +2,7 @@
 title: "Adding  locally hosted code to Github (Windows)"
 layout: post
 date: 2023-11-14 16:02
-image: docs/assets/images/markdown.jpg
+image: ../docs/assets/images/markdown.jpg
 headerImage: false
 tag:
 - push

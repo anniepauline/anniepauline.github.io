@@ -12,7 +12,7 @@ category: project
 author: johndoe
 externalLink: false
 ---
-![drum-kit](docs/assets/images/drum-kit.png)
+![drum-kit](../docs/assets/images/drum-kit.png)
 This is a simple and minimalist fun site for music lovers 🎶🎷🎺🎹🥁🎻🪕
 
 ---

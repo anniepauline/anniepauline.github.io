@@ -12,7 +12,7 @@ author: johndoe
 externalLink: false
 ---
 
-![theme-toggler](docs/assets/images/theme-toggler.png)
+![theme-toggler](../docs/assets/images/theme-toggler.png)
 
 
 I’ve been a dark mode user ever since it became a thing. But recently, I’ve preferred to use some websites and tools in light mode whilst keeping my system settings firmly in the dark. I needed a toggle. I needed a choice! And so does everyone else. 

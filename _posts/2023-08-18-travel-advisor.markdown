@@ -13,7 +13,7 @@ category: project
 author: johndoe
 externalLink: false
 ---
-![travel-advisor](docs/assets/images/travel-advisor.png)
+![travel-advisor](../docs/assets/images/travel-advisor.png)
 
 Find new and exciting attractions, restaurants, hotels at your tourist spot anywhere around the globe. 🌴✈🚢
 
