@@ -1,0 +1,20 @@
+---
+title: "TinDog 🐶"
+layout: post
+date: 2023-04-12 22:10
+tag: jekyll
+projects: true
+hidden: true
+description: "This is a simple and minimalist fun site for music lovers."
+category: project
+author: johndoe
+externalLink: false
+---
+![Screenshot](/assets/images/tindog.png)
+Tin-Dog is a tinder site but for Dogs.
+Find the true love of your dog's life! 🦴🦴
+
+
+* Click here for the [Codebase](https://github.com/anniepauline/TinDog-Wesbite).
+
+* Click here for the live [Demo](https://anniepauline.github.io/TinDog-Wesbite/). 
