@@ -1,0 +1,34 @@
+---
+title: ""
+layout: post
+date: 2023-04-11 22:10
+tag: jekyll
+image: ../docs/assets/images/header-logo.svg
+headerImage: true
+projects: true
+hidden: true
+description: "This is a simple Nike site built using Tailwind "
+category: project
+author: johndoe
+externalLink: false
+---
+
+![nike](../docs/assets/images/nike.png)
+This is a simple and minimalist fun site for music lovers 🎶🎷🎺🎹🥁🎻🪕
+
+---
+
+What are the languages used?
+
+-   JavaScript
+-   HTML
+-   CSS
+-   React
+-   Tailwind
+-   Vite
+
+---
+
+-   Click here for the [Codebase](https://github.com/anniepauline/Nike).
+
+-   Click here for the live [Demo](https://fluffy-stroopwafel-c0cf00.netlify.app/).
