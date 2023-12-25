@@ -14,7 +14,7 @@ externalLink: false
 ---
 
 ![nike](../docs/assets/images/nike.png)
-This is a simple and minimalist fun site for music lovers 🎶🎷🎺🎹🥁🎻🪕
+This is a simple and minimalist fun site with amazing user inerface and designs.
 
 ---
 
